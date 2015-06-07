@@ -1,0 +1,10 @@
+#node modules
+node_modules
+npm-debug.log
+
+#front end build
+/front/build
+
+
+#Mac
+.DS_Store
